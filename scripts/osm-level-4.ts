@@ -17,9 +17,14 @@ import { fetchNominatim, fetchOverpass } from './common';
     const coord = await fetchNominatim(params.toString());
     result.push({
       name: item.tags.name,
+      name_en: item.tags['name:en'],
+      state: item.tags.name,
+      id: item.id,
+      code: item.tags['ISO3166-2'].split('-')[1],
       latitude: coord[0].lat,
       longitude: coord[0].lon
     })
   }
   await fs.writeFile('./src/data/japan_states.json', JSON.stringify(result, null, 2))
+  await fs.mkdir('./tmp/japan/states', { recursive: true })
 })();
