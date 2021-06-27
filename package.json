@@ -1,6 +1,6 @@
 {
   "name": "detect-location-jp",
-  "description": "日本語文字列の位置情報を判定するnpmライブラリ",
+  "description": "OpenStreetMapのデータに基づいて、日本語文字列の位置情報を判定するnpmライブラリ",
   "version": "0.0.1",
   "license": "MIT",
   "author": "Yui Matsumura <yuiseki@gmail.com> (https://twitter.com/yuiseki_)",
