@@ -1,7 +1,7 @@
 {
   "name": "detect-location-jp",
   "description": "OpenStreetMapのデータに基づいて、日本語文字列の位置情報を判定するnpmライブラリ",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "author": "Yui Matsumura <yuiseki@gmail.com> (https://twitter.com/yuiseki_)",
   "repository": {
@@ -16,8 +16,9 @@
   "scripts": {
     "build": "tsc",
     "test": "jest",
-    "job:level4": "ts-node --files -r tsconfig-paths/register scripts/osm-level-4.ts",
-    "job:level7": "ts-node --files -r tsconfig-paths/register scripts/osm-level-7.ts",
+    "job:level2": "ts-node --files -r tsconfig-paths/register src/scripts/osm-level-2.ts",
+    "job:level4": "ts-node --files -r tsconfig-paths/register src/scripts/osm-level-4.ts",
+    "job:level7": "ts-node --files -r tsconfig-paths/register src/scripts/osm-level-7.ts",
     "prepublishOnly": "npm run build"
   },
   "jest": {

@@ -6,7 +6,7 @@ describe('都道府県を検出できる', () => {
     if (location === null) {
       throw Error('location is null');
     }
-    expect(location.name).toBe('茨城県');
+    expect(location.state).toBe('茨城県');
   });
   it('東京都台東区', async () => {
     const location = await detectLocation('東京都台東区で地震が発生しました');
@@ -14,6 +14,6 @@ describe('都道府県を検出できる', () => {
       throw Error('location is null');
     }
     expect(location.state).toBe('東京都');
-    expect(location.name).toBe('台東区');
+    expect(location.city).toBe('台東区');
   });
 })

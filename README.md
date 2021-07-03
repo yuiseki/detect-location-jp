@@ -13,9 +13,19 @@ const location = await detectLocation(text);
 
 ```
 {
-  name: 'ほげ県',
-  lat: 100.100,
-  lon: 100.100
+  id: 12345,
+  code: 'XX',
+  country: '日本',
+  country_en: 'Japan',
+  country_ja: '日本',
+  state: 'ほげ県',
+  state_ja: 'ほげ県',
+  state_en: 'Hoge Prefecture'
+  city: null,
+  city_en: null,
+  city_ja: null,
+  latitude: 100.100,
+  longitude: 100.100
 }
 ```
 
@@ -23,10 +33,19 @@ const location = await detectLocation(text);
 
 ```
 {
-  name: 'ふが市',
+  id: 12345,
+  code: 'XX',
+  country: '日本',
+  country_en: 'Japan',
+  country_ja: '日本',
   state: 'ほげ県',
-  lat: 100.111,
-  lon: 100.111
+  state_ja: 'ほげ県',
+  state_en: 'Hoge Prefecture'
+  city: 'ふが市',
+  city_en: 'Fuga city',
+  city_ja: 'ふが市',
+  latitude: 100.111,
+  longitude: 100.111
 }
 ```
 
