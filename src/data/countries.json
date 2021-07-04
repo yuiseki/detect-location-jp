@@ -11,8 +11,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "42.5407167",
-    "longitude": "1.5732033"
+    "latitude": 42.5407167,
+    "longitude": 1.5732033
   },
   {
     "id": 14296,
@@ -26,8 +26,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "48.7411522",
-    "longitude": "19.4528646"
+    "latitude": 48.7411522,
+    "longitude": 19.4528646
   },
   {
     "id": 16239,
@@ -41,8 +41,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "47.2",
-    "longitude": "13.2"
+    "latitude": 47.2,
+    "longitude": 13.2
   },
   {
     "id": 21335,
@@ -56,8 +56,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "47.1817585",
-    "longitude": "19.5060937"
+    "latitude": 47.1817585,
+    "longitude": 19.5060937
   },
   {
     "id": 28699,
@@ -71,8 +71,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "41.6809707",
-    "longitude": "44.0287382"
+    "latitude": 41.6809707,
+    "longitude": 44.0287382
   },
   {
     "id": 49715,
@@ -86,8 +86,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "52.215933",
-    "longitude": "19.134422"
+    "latitude": 52.215933,
+    "longitude": 19.134422
   },
   {
     "id": 49898,
@@ -101,8 +101,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "13.5066394",
-    "longitude": "104.869423"
+    "latitude": 13.5066394,
+    "longitude": 104.869423
   },
   {
     "id": 49903,
@@ -116,8 +116,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "20.0171109",
-    "longitude": "103.378253"
+    "latitude": 20.0171109,
+    "longitude": 103.378253
   },
   {
     "id": 49915,
@@ -131,8 +131,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "13.2904027",
-    "longitude": "108.4265113"
+    "latitude": 13.2904027,
+    "longitude": 108.4265113
   },
   {
     "id": 50046,
@@ -146,8 +146,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "55.670249",
-    "longitude": "10.3333283"
+    "latitude": 55.670249,
+    "longitude": 10.3333283
   },
   {
     "id": 50371,
@@ -161,8 +161,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "17.1750495",
-    "longitude": "95.9999652"
+    "latitude": 17.1750495,
+    "longitude": 95.9999652
   },
   {
     "id": 51477,
@@ -176,8 +176,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "51.0834196",
-    "longitude": "10.4234469"
+    "latitude": 51.0834196,
+    "longitude": 10.4234469
   },
   {
     "id": 51684,
@@ -191,8 +191,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "49.8167003",
-    "longitude": "15.4749544"
+    "latitude": 49.8167003,
+    "longitude": 15.4749544
   },
   {
     "id": 51701,
@@ -206,8 +206,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "46.7985624",
-    "longitude": "8.2319736"
+    "latitude": 46.7985624,
+    "longitude": 8.2319736
   },
   {
     "id": 52411,
@@ -221,8 +221,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "50.6402809",
-    "longitude": "4.6667145"
+    "latitude": 50.6402809,
+    "longitude": 4.6667145
   },
   {
     "id": 52822,
@@ -236,8 +236,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "59.6749712",
-    "longitude": "14.5208584"
+    "latitude": 59.6749712,
+    "longitude": 14.5208584
   },
   {
     "id": 52939,
@@ -251,8 +251,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "62.0448724",
-    "longitude": "-7.0322972"
+    "latitude": 62.0448724,
+    "longitude": -7.0322972
   },
   {
     "id": 53292,
@@ -266,8 +266,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "41.000028",
-    "longitude": "19.9999619"
+    "latitude": 41.000028,
+    "longitude": 19.9999619
   },
   {
     "id": 53293,
@@ -281,8 +281,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "41.6171214",
-    "longitude": "21.7168387"
+    "latitude": 41.6171214,
+    "longitude": 21.7168387
   },
   {
     "id": 53296,
@@ -296,8 +296,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "42.9868853",
-    "longitude": "19.5180992"
+    "latitude": 42.9868853,
+    "longitude": 19.5180992
   },
   {
     "id": 54224,
@@ -311,8 +311,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "63.2467777",
-    "longitude": "25.9209164"
+    "latitude": 63.2467777,
+    "longitude": 25.9209164
   },
   {
     "id": 54624,
@@ -326,8 +326,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "43.9458623",
-    "longitude": "12.458306"
+    "latitude": 43.9458623,
+    "longitude": 12.458306
   },
   {
     "id": 58974,
@@ -341,8 +341,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "47.2879608",
-    "longitude": "28.5670941"
+    "latitude": 47.2879608,
+    "longitude": 28.5670941
   },
   {
     "id": 59065,
@@ -356,8 +356,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "53.4250605",
-    "longitude": "27.6971358"
+    "latitude": 53.4250605,
+    "longitude": 27.6971358
   },
   {
     "id": 59470,
@@ -371,8 +371,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-10.3333333",
-    "longitude": "-53.2"
+    "latitude": -10.3333333,
+    "longitude": -53.2
   },
   {
     "id": 60189,
@@ -386,8 +386,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "64.6863136",
-    "longitude": "97.7453061"
+    "latitude": 64.6863136,
+    "longitude": 97.7453061
   },
   {
     "id": 60199,
@@ -401,8 +401,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "49.4871968",
-    "longitude": "31.2718321"
+    "latitude": 49.4871968,
+    "longitude": 31.2718321
   },
   {
     "id": 62149,
@@ -416,8 +416,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "54.7023545",
-    "longitude": "-3.2765753"
+    "latitude": 54.7023545,
+    "longitude": -3.2765753
   },
   {
     "id": 62269,
@@ -431,8 +431,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "54.1936805",
-    "longitude": "-4.5591148"
+    "latitude": 54.1936805,
+    "longitude": -4.5591148
   },
   {
     "id": 62273,
@@ -446,8 +446,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "52.865196",
-    "longitude": "-7.9794599"
+    "latitude": 52.865196,
+    "longitude": -7.9794599
   },
   {
     "id": 72594,
@@ -461,8 +461,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "56.8406494",
-    "longitude": "24.7537645"
+    "latitude": 56.8406494,
+    "longitude": 24.7537645
   },
   {
     "id": 72596,
@@ -476,8 +476,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "55.3500003",
-    "longitude": "23.7499997"
+    "latitude": 55.3500003,
+    "longitude": 23.7499997
   },
   {
     "id": 79510,
@@ -491,8 +491,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "58.7523778",
-    "longitude": "25.3319078"
+    "latitude": 58.7523778,
+    "longitude": 25.3319078
   },
   {
     "id": 80500,
@@ -506,8 +506,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-24.7761086",
-    "longitude": "134.755"
+    "latitude": -24.7761086,
+    "longitude": 134.755
   },
   {
     "id": 87565,
@@ -521,8 +521,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-28.8166236",
-    "longitude": "24.991639"
+    "latitude": -28.8166236,
+    "longitude": 24.991639
   },
   {
     "id": 88210,
@@ -536,8 +536,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-26.5624806",
-    "longitude": "31.3991317"
+    "latitude": -26.5624806,
+    "longitude": 31.3991317
   },
   {
     "id": 90689,
@@ -551,8 +551,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "45.9852129",
-    "longitude": "24.6859225"
+    "latitude": 45.9852129,
+    "longitude": 24.6859225
   },
   {
     "id": 108089,
@@ -566,8 +566,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-1.3397668",
-    "longitude": "-79.3666965"
+    "latitude": -1.3397668,
+    "longitude": -79.3666965
   },
   {
     "id": 114686,
@@ -581,8 +581,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "22.5000485",
-    "longitude": "-100.0000375"
+    "latitude": 22.5000485,
+    "longitude": -100.0000375
   },
   {
     "id": 120027,
@@ -596,8 +596,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "2.8894434",
-    "longitude": "-73.783892"
+    "latitude": 2.8894434,
+    "longitude": -73.783892
   },
   {
     "id": 148838,
@@ -611,8 +611,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "39.7837304",
-    "longitude": "-100.4458825"
+    "latitude": 39.7837304,
+    "longitude": -100.4458825
   },
   {
     "id": 161033,
@@ -626,8 +626,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "46.8250388",
-    "longitude": "103.8499736"
+    "latitude": 46.8250388,
+    "longitude": 103.8499736
   },
   {
     "id": 167454,
@@ -641,8 +641,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-31.7613365",
-    "longitude": "-71.3187697"
+    "latitude": -31.7613365,
+    "longitude": -71.3187697
   },
   {
     "id": 171496,
@@ -656,8 +656,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-1.9646631",
-    "longitude": "30.0644358"
+    "latitude": -1.9646631,
+    "longitude": 30.0644358
   },
   {
     "id": 174737,
@@ -671,8 +671,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "38.9597594",
-    "longitude": "34.9249653"
+    "latitude": 38.9597594,
+    "longitude": 34.9249653
   },
   {
     "id": 178009,
@@ -686,8 +686,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "41.5089324",
-    "longitude": "74.724091"
+    "latitude": 41.5089324,
+    "longitude": 74.724091
   },
   {
     "id": 184629,
@@ -701,8 +701,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "27.549511",
-    "longitude": "90.5119273"
+    "latitude": 27.549511,
+    "longitude": 90.5119273
   },
   {
     "id": 184633,
@@ -716,8 +716,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "28.1083929",
-    "longitude": "84.0917139"
+    "latitude": 28.1083929,
+    "longitude": 84.0917139
   },
   {
     "id": 184640,
@@ -731,8 +731,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "24.4768783",
-    "longitude": "90.2932426"
+    "latitude": 24.4768783,
+    "longitude": 90.2932426
   },
   {
     "id": 184818,
@@ -746,8 +746,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "31.1667049",
-    "longitude": "36.941628"
+    "latitude": 31.1667049,
+    "longitude": 36.941628
   },
   {
     "id": 184840,
@@ -761,8 +761,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "34.6401861",
-    "longitude": "39.0494106"
+    "latitude": 34.6401861,
+    "longitude": 39.0494106
   },
   {
     "id": 184843,
@@ -776,8 +776,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "33.8750629",
-    "longitude": "35.843409"
+    "latitude": 33.8750629,
+    "longitude": 35.843409
   },
   {
     "id": 186382,
@@ -791,8 +791,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "42.6073975",
-    "longitude": "25.4856617"
+    "latitude": 42.6073975,
+    "longitude": 25.4856617
   },
   {
     "id": 192307,
@@ -806,8 +806,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "38.9953683",
-    "longitude": "21.9877132"
+    "latitude": 38.9953683,
+    "longitude": 21.9877132
   },
   {
     "id": 192734,
@@ -821,8 +821,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "40.3736611",
-    "longitude": "127.0870417"
+    "latitude": 40.3736611,
+    "longitude": 127.0870417
   },
   {
     "id": 192756,
@@ -836,8 +836,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "28.0000272",
-    "longitude": "2.9999825"
+    "latitude": 28.0000272,
+    "longitude": 2.9999825
   },
   {
     "id": 192757,
@@ -851,8 +851,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "33.8439408",
-    "longitude": "9.400138"
+    "latitude": 33.8439408,
+    "longitude": 9.400138
   },
   {
     "id": 192758,
@@ -866,8 +866,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "26.8234472",
-    "longitude": "18.1236723"
+    "latitude": 26.8234472,
+    "longitude": 18.1236723
   },
   {
     "id": 192763,
@@ -881,8 +881,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "20.2540382",
-    "longitude": "-9.2399263"
+    "latitude": 20.2540382,
+    "longitude": -9.2399263
   },
   {
     "id": 192774,
@@ -896,8 +896,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "13.44294275",
-    "longitude": "-16.118732162564726"
+    "latitude": 13.44294275,
+    "longitude": -16.118732162564726
   },
   {
     "id": 192775,
@@ -911,8 +911,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "14.46517725",
-    "longitude": "-14.765340959100413"
+    "latitude": 14.46517725,
+    "longitude": -14.765340959100413
   },
   {
     "id": 192776,
@@ -926,8 +926,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "11.6688305",
-    "longitude": "-15.535471371611191"
+    "latitude": 11.6688305,
+    "longitude": -15.535471371611191
   },
   {
     "id": 192777,
@@ -941,8 +941,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "8.6400349",
-    "longitude": "-11.8400269"
+    "latitude": 8.6400349,
+    "longitude": -11.8400269
   },
   {
     "id": 192778,
@@ -956,8 +956,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "10.7226226",
-    "longitude": "-10.7083587"
+    "latitude": 10.7226226,
+    "longitude": -10.7083587
   },
   {
     "id": 192779,
@@ -971,8 +971,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "7.9897371",
-    "longitude": "-5.5679458"
+    "latitude": 7.9897371,
+    "longitude": -5.5679458
   },
   {
     "id": 192780,
@@ -986,8 +986,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "5.7499721",
-    "longitude": "-9.3658524"
+    "latitude": 5.7499721,
+    "longitude": -9.3658524
   },
   {
     "id": 192781,
@@ -1001,8 +1001,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "8.0300284",
-    "longitude": "-1.0800271"
+    "latitude": 8.0300284,
+    "longitude": -1.0800271
   },
   {
     "id": 192782,
@@ -1016,8 +1016,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "8.7800265",
-    "longitude": "1.0199765"
+    "latitude": 8.7800265,
+    "longitude": 1.0199765
   },
   {
     "id": 192783,
@@ -1031,8 +1031,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "12.0753083",
-    "longitude": "-1.6880314"
+    "latitude": 12.0753083,
+    "longitude": -1.6880314
   },
   {
     "id": 192784,
@@ -1046,8 +1046,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "9.2231105",
-    "longitude": "2.31006719638123"
+    "latitude": 9.2231105,
+    "longitude": 2.31006719638123
   },
   {
     "id": 192785,
@@ -1061,8 +1061,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "16.3700359",
-    "longitude": "-2.2900239"
+    "latitude": 16.3700359,
+    "longitude": -2.2900239
   },
   {
     "id": 192786,
@@ -1076,8 +1076,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "17.7356214",
-    "longitude": "9.3238432"
+    "latitude": 17.7356214,
+    "longitude": 9.3238432
   },
   {
     "id": 192787,
@@ -1091,8 +1091,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "9.6000359",
-    "longitude": "7.9999721"
+    "latitude": 9.6000359,
+    "longitude": 7.9999721
   },
   {
     "id": 192789,
@@ -1106,8 +1106,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "14.5844444",
-    "longitude": "29.4917691"
+    "latitude": 14.5844444,
+    "longitude": 29.4917691
   },
   {
     "id": 192790,
@@ -1121,8 +1121,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "7.0323598",
-    "longitude": "19.9981227"
+    "latitude": 7.0323598,
+    "longitude": 19.9981227
   },
   {
     "id": 192791,
@@ -1136,8 +1136,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "1.613172",
-    "longitude": "10.5170357"
+    "latitude": 1.613172,
+    "longitude": 10.5170357
   },
   {
     "id": 192793,
@@ -1151,8 +1151,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-0.8999695",
-    "longitude": "11.6899699"
+    "latitude": -0.8999695,
+    "longitude": 11.6899699
   },
   {
     "id": 192794,
@@ -1166,8 +1166,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-0.7264327",
-    "longitude": "15.6419155"
+    "latitude": -0.7264327,
+    "longitude": 15.6419155
   },
   {
     "id": 192795,
@@ -1181,8 +1181,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-2.9814344",
-    "longitude": "23.8222636"
+    "latitude": -2.9814344,
+    "longitude": 23.8222636
   },
   {
     "id": 192796,
@@ -1196,8 +1196,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "1.5333554",
-    "longitude": "32.2166578"
+    "latitude": 1.5333554,
+    "longitude": 32.2166578
   },
   {
     "id": 192798,
@@ -1211,8 +1211,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "1.4419683",
-    "longitude": "38.4313975"
+    "latitude": 1.4419683,
+    "longitude": 38.4313975
   },
   {
     "id": 192799,
@@ -1226,8 +1226,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "8.3676771",
-    "longitude": "49.083416"
+    "latitude": 8.3676771,
+    "longitude": 49.083416
   },
   {
     "id": 192800,
@@ -1241,8 +1241,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "9.1462539",
-    "longitude": "38.99347146322556"
+    "latitude": 9.1462539,
+    "longitude": 38.99347146322556
   },
   {
     "id": 192801,
@@ -1256,8 +1256,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "11.85677545",
-    "longitude": "42.757784519943655"
+    "latitude": 11.85677545,
+    "longitude": 42.757784519943655
   },
   {
     "id": 192830,
@@ -1271,8 +1271,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "4.6125522",
-    "longitude": "13.1535811"
+    "latitude": 4.6125522,
+    "longitude": 13.1535811
   },
   {
     "id": 195266,
@@ -1286,8 +1286,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-23.2335499",
-    "longitude": "17.3231107"
+    "latitude": -23.2335499,
+    "longitude": 17.3231107
   },
   {
     "id": 195267,
@@ -1301,8 +1301,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-11.8775768",
-    "longitude": "17.5691241"
+    "latitude": -11.8775768,
+    "longitude": 17.5691241
   },
   {
     "id": 195269,
@@ -1316,8 +1316,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-3.3634357",
-    "longitude": "29.8870575"
+    "latitude": -3.3634357,
+    "longitude": 29.8870575
   },
   {
     "id": 195270,
@@ -1331,8 +1331,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-6.5247123",
-    "longitude": "35.7878438"
+    "latitude": -6.5247123,
+    "longitude": 35.7878438
   },
   {
     "id": 195271,
@@ -1346,8 +1346,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-14.5189121",
-    "longitude": "27.5589884"
+    "latitude": -14.5189121,
+    "longitude": 27.5589884
   },
   {
     "id": 195272,
@@ -1361,8 +1361,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-19.01688",
-    "longitude": "29.35365015971339"
+    "latitude": -19.01688,
+    "longitude": 29.35365015971339
   },
   {
     "id": 195273,
@@ -1376,8 +1376,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-19.302233",
-    "longitude": "34.9144977"
+    "latitude": -19.302233,
+    "longitude": 34.9144977
   },
   {
     "id": 195290,
@@ -1391,8 +1391,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-13.2687204",
-    "longitude": "33.9301963"
+    "latitude": -13.2687204,
+    "longitude": 33.9301963
   },
   {
     "id": 196240,
@@ -1406,8 +1406,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "41.32373",
-    "longitude": "63.9528098"
+    "latitude": 41.32373,
+    "longitude": 63.9528098
   },
   {
     "id": 214626,
@@ -1421,8 +1421,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "38.6281733",
-    "longitude": "70.8156541"
+    "latitude": 38.6281733,
+    "longitude": 70.8156541
   },
   {
     "id": 214665,
@@ -1436,8 +1436,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "47.2286086",
-    "longitude": "65.2093197"
+    "latitude": 47.2286086,
+    "longitude": 65.2093197
   },
   {
     "id": 214885,
@@ -1451,8 +1451,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "45.5643442",
-    "longitude": "17.0118954"
+    "latitude": 45.5643442,
+    "longitude": 17.0118954
   },
   {
     "id": 218657,
@@ -1466,8 +1466,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "45.8133113",
-    "longitude": "14.4808369"
+    "latitude": 45.8133113,
+    "longitude": 14.4808369
   },
   {
     "id": 223026,
@@ -1481,8 +1481,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "39.3763807",
-    "longitude": "59.3924609"
+    "latitude": 39.3763807,
+    "longitude": 59.3924609
   },
   {
     "id": 252645,
@@ -1496,8 +1496,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-17.0568696",
-    "longitude": "-64.9912286"
+    "latitude": -17.0568696,
+    "longitude": -64.9912286
   },
   {
     "id": 270009,
@@ -1511,8 +1511,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "49.4566233",
-    "longitude": "-2.5822348"
+    "latitude": 49.4566233,
+    "longitude": -2.5822348
   },
   {
     "id": 270056,
@@ -1526,8 +1526,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "35.000074",
-    "longitude": "104.999927"
+    "latitude": 35.000074,
+    "longitude": 104.999927
   },
   {
     "id": 272644,
@@ -1541,8 +1541,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "8.0018709",
-    "longitude": "-66.1109318"
+    "latitude": 8.0018709,
+    "longitude": -66.1109318
   },
   {
     "id": 285454,
@@ -1556,8 +1556,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "18.4024395",
-    "longitude": "-64.5661642"
+    "latitude": 18.4024395,
+    "longitude": -64.5661642
   },
   {
     "id": 286393,
@@ -1571,8 +1571,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-34.9964963",
-    "longitude": "-64.9672817"
+    "latitude": -34.9964963,
+    "longitude": -64.9672817
   },
   {
     "id": 287072,
@@ -1586,8 +1586,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-32.8755548",
-    "longitude": "-56.0201525"
+    "latitude": -32.8755548,
+    "longitude": -56.0201525
   },
   {
     "id": 287077,
@@ -1601,8 +1601,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-23.3165935",
-    "longitude": "-58.1693445"
+    "latitude": -23.3165935,
+    "longitude": -58.1693445
   },
   {
     "id": 287082,
@@ -1616,8 +1616,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "4.1413025",
-    "longitude": "-56.0771187"
+    "latitude": 4.1413025,
+    "longitude": -56.0771187
   },
   {
     "id": 287083,
@@ -1631,8 +1631,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "4.8417097",
-    "longitude": "-58.6416891"
+    "latitude": 4.8417097,
+    "longitude": -58.6416891
   },
   {
     "id": 287666,
@@ -1646,8 +1646,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "12.6090157",
-    "longitude": "-85.2936911"
+    "latitude": 12.6090157,
+    "longitude": -85.2936911
   },
   {
     "id": 287667,
@@ -1661,8 +1661,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "10.2735633",
-    "longitude": "-84.0739102"
+    "latitude": 10.2735633,
+    "longitude": -84.0739102
   },
   {
     "id": 287668,
@@ -1676,8 +1676,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "8.559559",
-    "longitude": "-81.1308434"
+    "latitude": 8.559559,
+    "longitude": -81.1308434
   },
   {
     "id": 287670,
@@ -1691,8 +1691,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "15.2572432",
-    "longitude": "-86.0755145"
+    "latitude": 15.2572432,
+    "longitude": -86.0755145
   },
   {
     "id": 287827,
@@ -1706,8 +1706,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "16.8259793",
-    "longitude": "-88.7600927"
+    "latitude": 16.8259793,
+    "longitude": -88.7600927
   },
   {
     "id": 288247,
@@ -1721,8 +1721,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-6.8699697",
-    "longitude": "-75.0458515"
+    "latitude": -6.8699697,
+    "longitude": -75.0458515
   },
   {
     "id": 295480,
@@ -1736,8 +1736,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "40.0332629",
-    "longitude": "-7.8896263"
+    "latitude": 40.0332629,
+    "longitude": -7.8896263
   },
   {
     "id": 296961,
@@ -1751,8 +1751,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "15.9500319",
-    "longitude": "37.9999668"
+    "latitude": 15.9500319,
+    "longitude": 37.9999668
   },
   {
     "id": 299133,
@@ -1766,8 +1766,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "64.9841821",
-    "longitude": "-18.1059013"
+    "latitude": 64.9841821,
+    "longitude": -18.1059013
   },
   {
     "id": 303427,
@@ -1781,8 +1781,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "33.7680065",
-    "longitude": "66.2385139"
+    "latitude": 33.7680065,
+    "longitude": 66.2385139
   },
   {
     "id": 304716,
@@ -1796,8 +1796,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "22.3511148",
-    "longitude": "78.6677428"
+    "latitude": 22.3511148,
+    "longitude": 78.6677428
   },
   {
     "id": 304751,
@@ -1811,8 +1811,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-2.4833826",
-    "longitude": "117.8902853"
+    "latitude": -2.4833826,
+    "longitude": 117.8902853
   },
   {
     "id": 304934,
@@ -1826,8 +1826,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "33.0955793",
-    "longitude": "44.1749775"
+    "latitude": 33.0955793,
+    "longitude": 44.1749775
   },
   {
     "id": 304938,
@@ -1841,8 +1841,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "32.6475314",
-    "longitude": "54.5643516"
+    "latitude": 32.6475314,
+    "longitude": 54.5643516
   },
   {
     "id": 305092,
@@ -1856,8 +1856,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "16.3471243",
-    "longitude": "47.8915271"
+    "latitude": 16.3471243,
+    "longitude": 47.8915271
   },
   {
     "id": 305095,
@@ -1871,8 +1871,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "25.3336984",
-    "longitude": "51.2295295"
+    "latitude": 25.3336984,
+    "longitude": 51.2295295
   },
   {
     "id": 305099,
@@ -1886,8 +1886,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "29.2733964",
-    "longitude": "47.4979476"
+    "latitude": 29.2733964,
+    "longitude": 47.4979476
   },
   {
     "id": 305138,
@@ -1901,23 +1901,23 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "21.0000287",
-    "longitude": "57.0036901"
+    "latitude": 21.0000287,
+    "longitude": 57.0036901
   },
   {
     "id": 305142,
     "code": "TL",
     "country": "Timór Lorosa'e",
     "country_en": "East Timor",
-    "country_ja": null,
+    "country_ja": "東ティモール",
     "state": null,
     "state_en": null,
     "state_ja": null,
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-8.5151979",
-    "longitude": "125.8375756"
+    "latitude": -8.5151979,
+    "longitude": 125.8375756
   },
   {
     "id": 307573,
@@ -1931,8 +1931,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "30.3308401",
-    "longitude": "71.247499"
+    "latitude": 30.3308401,
+    "longitude": 71.247499
   },
   {
     "id": 307584,
@@ -1946,8 +1946,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "25.6242618",
-    "longitude": "42.3528328"
+    "latitude": 25.6242618,
+    "longitude": 42.3528328
   },
   {
     "id": 307756,
@@ -1961,8 +1961,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "36.638392",
-    "longitude": "127.6961188"
+    "latitude": 36.638392,
+    "longitude": 127.6961188
   },
   {
     "id": 307763,
@@ -1976,8 +1976,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "24.0002488",
-    "longitude": "53.9994829"
+    "latitude": 24.0002488,
+    "longitude": 53.9994829
   },
   {
     "id": 307787,
@@ -1991,8 +1991,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "34.9823018",
-    "longitude": "33.1451285"
+    "latitude": 34.9823018,
+    "longitude": 33.1451285
   },
   {
     "id": 307823,
@@ -2006,8 +2006,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "19.0974031",
-    "longitude": "-70.3028026"
+    "latitude": 19.0974031,
+    "longitude": -70.3028026
   },
   {
     "id": 307828,
@@ -2021,8 +2021,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "19.0974031",
-    "longitude": "-70.3028026"
+    "latitude": 19.0974031,
+    "longitude": -70.3028026
   },
   {
     "id": 307829,
@@ -2036,8 +2036,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "19.1399952",
-    "longitude": "-72.3570972"
+    "latitude": 19.1399952,
+    "longitude": -72.3570972
   },
   {
     "id": 307833,
@@ -2051,8 +2051,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "23.0131338",
-    "longitude": "-80.8328748"
+    "latitude": 23.0131338,
+    "longitude": -80.8328748
   },
   {
     "id": 307866,
@@ -2066,8 +2066,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-5.6816069",
-    "longitude": "144.2489081"
+    "latitude": -5.6816069,
+    "longitude": 144.2489081
   },
   {
     "id": 364066,
@@ -2081,8 +2081,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "40.7696272",
-    "longitude": "44.6736646"
+    "latitude": 40.7696272,
+    "longitude": 44.6736646
   },
   {
     "id": 364110,
@@ -2096,8 +2096,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "40.3936294",
-    "longitude": "47.7872508"
+    "latitude": 40.3936294,
+    "longitude": 47.7872508
   },
   {
     "id": 365307,
@@ -2111,8 +2111,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "35.8885993",
-    "longitude": "14.4476911"
+    "latitude": 35.8885993,
+    "longitude": 14.4476911
   },
   {
     "id": 365331,
@@ -2126,8 +2126,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "42.6384261",
-    "longitude": "12.674297"
+    "latitude": 42.6384261,
+    "longitude": 12.674297
   },
   {
     "id": 367988,
@@ -2141,8 +2141,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "49.2214561",
-    "longitude": "-2.1358386"
+    "latitude": 49.2214561,
+    "longitude": -2.1358386
   },
   {
     "id": 378734,
@@ -2156,8 +2156,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "26.1551249",
-    "longitude": "50.5344606"
+    "latitude": 26.1551249,
+    "longitude": 50.5344606
   },
   {
     "id": 382313,
@@ -2171,8 +2171,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "36.5748441",
-    "longitude": "139.2394179"
+    "latitude": 36.5748441,
+    "longitude": 139.2394179
   },
   {
     "id": 443174,
@@ -2186,8 +2186,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "12.7503486",
-    "longitude": "122.7312101"
+    "latitude": 12.7503486,
+    "longitude": 122.7312101
   },
   {
     "id": 447325,
@@ -2201,8 +2201,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-18.9249604",
-    "longitude": "46.4416422"
+    "latitude": -18.9249604,
+    "longitude": 46.4416422
   },
   {
     "id": 449220,
@@ -2216,8 +2216,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "23.9739374",
-    "longitude": "120.9820179"
+    "latitude": 23.9739374,
+    "longitude": 120.9820179
   },
   {
     "id": 535774,
@@ -2231,8 +2231,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "16.0000552",
-    "longitude": "-24.0083947"
+    "latitude": 16.0000552,
+    "longitude": -24.0083947
   },
   {
     "id": 535790,
@@ -2246,8 +2246,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-12.2045176",
-    "longitude": "44.2832964"
+    "latitude": -12.2045176,
+    "longitude": 44.2832964
   },
   {
     "id": 535828,
@@ -2261,8 +2261,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-20.2759451",
-    "longitude": "57.5703566"
+    "latitude": -20.2759451,
+    "longitude": 57.5703566
   },
   {
     "id": 535880,
@@ -2276,8 +2276,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "0.8875498",
-    "longitude": "6.9648718"
+    "latitude": 0.8875498,
+    "longitude": 6.9648718
   },
   {
     "id": 536765,
@@ -2291,8 +2291,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-4.6574977",
-    "longitude": "55.4540146"
+    "latitude": -4.6574977,
+    "longitude": 55.4540146
   },
   {
     "id": 536773,
@@ -2306,8 +2306,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "4.7064352",
-    "longitude": "73.3287853"
+    "latitude": 4.7064352,
+    "longitude": 73.3287853
   },
   {
     "id": 536780,
@@ -2321,8 +2321,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "1.357107",
-    "longitude": "103.8194992"
+    "latitude": 1.357107,
+    "longitude": 103.8194992
   },
   {
     "id": 536807,
@@ -2336,8 +2336,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "7.5554942",
-    "longitude": "80.7137847"
+    "latitude": 7.5554942,
+    "longitude": 80.7137847
   },
   {
     "id": 536899,
@@ -2351,8 +2351,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "17.250512",
-    "longitude": "-62.6725973"
+    "latitude": 17.250512,
+    "longitude": -62.6725973
   },
   {
     "id": 536900,
@@ -2366,8 +2366,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "17.2234721",
-    "longitude": "-61.9554608"
+    "latitude": 17.2234721,
+    "longitude": -61.9554608
   },
   {
     "id": 537257,
@@ -2381,8 +2381,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "16.7417041",
-    "longitude": "-62.1916844"
+    "latitude": 16.7417041,
+    "longitude": -62.1916844
   },
   {
     "id": 547469,
@@ -2396,8 +2396,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "24.7736546",
-    "longitude": "-78.0000547"
+    "latitude": 24.7736546,
+    "longitude": -78.0000547
   },
   {
     "id": 547479,
@@ -2411,8 +2411,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "21.7214683",
-    "longitude": "-71.6201783"
+    "latitude": 21.7214683,
+    "longitude": -71.6201783
   },
   {
     "id": 547511,
@@ -2426,8 +2426,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "13.1500331",
-    "longitude": "-59.5250305"
+    "latitude": 13.1500331,
+    "longitude": -59.5250305
   },
   {
     "id": 550725,
@@ -2441,8 +2441,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "12.90447",
-    "longitude": "-61.2765569"
+    "latitude": 12.90447,
+    "longitude": -61.2765569
   },
   {
     "id": 550727,
@@ -2456,8 +2456,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "12.1360374",
-    "longitude": "-61.6904045"
+    "latitude": 12.1360374,
+    "longitude": -61.6904045
   },
   {
     "id": 550728,
@@ -2471,8 +2471,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "13.8250489",
-    "longitude": "-60.975036"
+    "latitude": 13.8250489,
+    "longitude": -60.975036
   },
   {
     "id": 555017,
@@ -2486,8 +2486,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "18.1850507",
-    "longitude": "-77.3947693"
+    "latitude": 18.1850507,
+    "longitude": -77.3947693
   },
   {
     "id": 555717,
@@ -2501,8 +2501,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "10.8677845",
-    "longitude": "-60.9821067"
+    "latitude": 10.8677845,
+    "longitude": -60.9821067
   },
   {
     "id": 556706,
@@ -2516,8 +2516,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-41.5000831",
-    "longitude": "172.8344077"
+    "latitude": -41.5000831,
+    "longitude": 172.8344077
   },
   {
     "id": 571178,
@@ -2531,8 +2531,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-1.2394555500000002",
-    "longitude": "175.29694553869794"
+    "latitude": -1.2394555500000002,
+    "longitude": 175.29694553869794
   },
   {
     "id": 571747,
@@ -2546,8 +2546,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-18.1239696",
-    "longitude": "179.0122737"
+    "latitude": -18.1239696,
+    "longitude": 179.0122737
   },
   {
     "id": 571771,
@@ -2561,8 +2561,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "6.9518742",
-    "longitude": "170.9985095"
+    "latitude": 6.9518742,
+    "longitude": 170.9985095
   },
   {
     "id": 571802,
@@ -2576,8 +2576,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "8.6065",
-    "longitude": "152.00846930625"
+    "latitude": 8.6065,
+    "longitude": 152.00846930625
   },
   {
     "id": 571804,
@@ -2591,8 +2591,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-0.5252306",
-    "longitude": "166.9324426"
+    "latitude": -0.5252306,
+    "longitude": 166.9324426
   },
   {
     "id": 571805,
@@ -2606,8 +2606,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "5.3783537",
-    "longitude": "132.9102573"
+    "latitude": 5.3783537,
+    "longitude": 132.9102573
   },
   {
     "id": 1124039,
@@ -2621,8 +2621,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "43.7323492",
-    "longitude": "7.4276832"
+    "latitude": 43.7323492,
+    "longitude": 7.4276832
   },
   {
     "id": 1155955,
@@ -2636,8 +2636,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "47.1416307",
-    "longitude": "9.5531527"
+    "latitude": 47.1416307,
+    "longitude": 9.5531527
   },
   {
     "id": 1278736,
@@ -2651,8 +2651,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "36.140807",
-    "longitude": "-5.3541295"
+    "latitude": 36.140807,
+    "longitude": -5.3541295
   },
   {
     "id": 1311341,
@@ -2666,8 +2666,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "39.3260685",
-    "longitude": "-4.8379791"
+    "latitude": 39.3260685,
+    "longitude": -4.8379791
   },
   {
     "id": 1428125,
@@ -2681,8 +2681,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "61.0666922",
-    "longitude": "-107.991707"
+    "latitude": 61.0666922,
+    "longitude": -107.991707
   },
   {
     "id": 1473946,
@@ -2696,8 +2696,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "31.5313113",
-    "longitude": "34.8667654"
+    "latitude": 31.5313113,
+    "longitude": 34.8667654
   },
   {
     "id": 1473947,
@@ -2711,8 +2711,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "26.2540493",
-    "longitude": "29.2675469"
+    "latitude": 26.2540493,
+    "longitude": 29.2675469
   },
   {
     "id": 1520612,
@@ -2726,8 +2726,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "13.8000382",
-    "longitude": "-88.9140683"
+    "latitude": 13.8000382,
+    "longitude": -88.9140683
   },
   {
     "id": 1521463,
@@ -2741,8 +2741,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "15.6356088",
-    "longitude": "-89.8988087"
+    "latitude": 15.6356088,
+    "longitude": -89.8988087
   },
   {
     "id": 1558556,
@@ -2756,8 +2756,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-19.0536414",
-    "longitude": "-169.861341"
+    "latitude": -19.0536414,
+    "longitude": -169.861341
   },
   {
     "id": 1656678,
@@ -2771,8 +2771,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "7.8699431",
-    "longitude": "29.6667897"
+    "latitude": 7.8699431,
+    "longitude": 29.6667897
   },
   {
     "id": 1741311,
@@ -2786,8 +2786,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "44.1534121",
-    "longitude": "20.55144"
+    "latitude": 44.1534121,
+    "longitude": 20.55144
   },
   {
     "id": 1857436,
@@ -2801,8 +2801,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-8.7053941",
-    "longitude": "159.1070693851845"
+    "latitude": -8.7053941,
+    "longitude": 159.1070693851845
   },
   {
     "id": 1872673,
@@ -2816,8 +2816,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-13.7693895",
-    "longitude": "-172.1200508"
+    "latitude": -13.7693895,
+    "longitude": -172.1200508
   },
   {
     "id": 1889339,
@@ -2831,8 +2831,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-23.1681782",
-    "longitude": "24.5928742"
+    "latitude": -23.1681782,
+    "longitude": 24.5928742
   },
   {
     "id": 1964272,
@@ -2846,8 +2846,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-37.2465",
-    "longitude": "-12.4870384875"
+    "latitude": -37.2465,
+    "longitude": -12.4870384875
   },
   {
     "id": 1983628,
@@ -2861,8 +2861,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-54.8432857",
-    "longitude": "-35.8090698"
+    "latitude": -54.8432857,
+    "longitude": -35.8090698
   },
   {
     "id": 1993208,
@@ -2876,8 +2876,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "32.3018217",
-    "longitude": "-64.7603583"
+    "latitude": 32.3018217,
+    "longitude": -64.7603583
   },
   {
     "id": 1993867,
@@ -2891,8 +2891,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-5.349626649999999",
-    "longitude": "72.00648804312836"
+    "latitude": -5.349626649999999,
+    "longitude": 72.00648804312836
   },
   {
     "id": 2067731,
@@ -2906,8 +2906,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "14.8971921",
-    "longitude": "100.83273"
+    "latitude": 14.8971921,
+    "longitude": 100.83273
   },
   {
     "id": 2088990,
@@ -2921,8 +2921,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "42.5869578",
-    "longitude": "20.9021231"
+    "latitude": 42.5869578,
+    "longitude": 20.9021231
   },
   {
     "id": 2093234,
@@ -2936,8 +2936,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-29.6039267",
-    "longitude": "28.3350193"
+    "latitude": -29.6039267,
+    "longitude": 28.3350193
   },
   {
     "id": 2103120,
@@ -2951,8 +2951,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "4.4137155",
-    "longitude": "114.5653908"
+    "latitude": 4.4137155,
+    "longitude": 114.5653908
   },
   {
     "id": 2108121,
@@ -2966,8 +2966,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "4.5693754",
-    "longitude": "102.2656823"
+    "latitude": 4.5693754,
+    "longitude": 102.2656823
   },
   {
     "id": 2171347,
@@ -2981,8 +2981,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "49.8158683",
-    "longitude": "6.1296751"
+    "latitude": 49.8158683,
+    "longitude": 6.1296751
   },
   {
     "id": 2177161,
@@ -2996,8 +2996,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "18.1954947",
-    "longitude": "-63.0750234"
+    "latitude": 18.1954947,
+    "longitude": -63.0750234
   },
   {
     "id": 2177246,
@@ -3011,8 +3011,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-16.5255069",
-    "longitude": "168.1069154"
+    "latitude": -16.5255069,
+    "longitude": 168.1069154
   },
   {
     "id": 2177266,
@@ -3026,8 +3026,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-8.6405212",
-    "longitude": "179.1582918181797"
+    "latitude": -8.6405212,
+    "longitude": 179.1582918181797
   },
   {
     "id": 2184073,
@@ -3041,8 +3041,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "77.6192349",
-    "longitude": "-42.8125967"
+    "latitude": 77.6192349,
+    "longitude": -42.8125967
   },
   {
     "id": 2184233,
@@ -3056,8 +3056,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-19.919672900000002",
-    "longitude": "-157.9753368892878"
+    "latitude": -19.919672900000002,
+    "longitude": -157.9753368892878
   },
   {
     "id": 2185366,
@@ -3071,8 +3071,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "19.703182249999998",
-    "longitude": "-79.9174627243246"
+    "latitude": 19.703182249999998,
+    "longitude": -79.9174627243246
   },
   {
     "id": 2185374,
@@ -3086,8 +3086,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-51.9666424",
-    "longitude": "-59.5500387"
+    "latitude": -51.9666424,
+    "longitude": -59.5500387
   },
   {
     "id": 2185375,
@@ -3101,8 +3101,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-25.0657719",
-    "longitude": "-130.1017823"
+    "latitude": -25.0657719,
+    "longitude": -130.1017823
   },
   {
     "id": 2186600,
@@ -3116,8 +3116,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-9.1676396",
-    "longitude": "-171.819687"
+    "latitude": -9.1676396,
+    "longitude": -171.819687
   },
   {
     "id": 2186665,
@@ -3131,8 +3131,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "-19.9160819",
-    "longitude": "-175.2026424"
+    "latitude": -19.9160819,
+    "longitude": -175.2026424
   },
   {
     "id": 2202162,
@@ -3146,8 +3146,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "46.603354",
-    "longitude": "1.8883335"
+    "latitude": 46.603354,
+    "longitude": 1.8883335
   },
   {
     "id": 2323309,
@@ -3161,8 +3161,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "52.5001698",
-    "longitude": "5.7480821"
+    "latitude": 52.5001698,
+    "longitude": 5.7480821
   },
   {
     "id": 2361304,
@@ -3176,8 +3176,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "15.6134137",
-    "longitude": "19.0156172"
+    "latitude": 15.6134137,
+    "longitude": 19.0156172
   },
   {
     "id": 2528142,
@@ -3191,8 +3191,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "44.3053476",
-    "longitude": "17.5961467"
+    "latitude": 44.3053476,
+    "longitude": 17.5961467
   },
   {
     "id": 2978650,
@@ -3206,8 +3206,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "60.5000209",
-    "longitude": "9.0999715"
+    "latitude": 60.5000209,
+    "longitude": 9.0999715
   },
   {
     "id": 3263728,
@@ -3220,8 +3220,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "34.9823018",
-    "longitude": "33.1451285"
+    "latitude": 34.9823018,
+    "longitude": 33.1451285
   },
   {
     "id": 3630439,
@@ -3235,8 +3235,8 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "31.1728205",
-    "longitude": "-7.3362482"
+    "latitude": 31.1728205,
+    "longitude": -7.3362482
   },
   {
     "id": 5441968,
@@ -3249,7 +3249,7 @@
     "city": null,
     "city_en": null,
     "city_ja": null,
-    "latitude": "23.340694499999998",
-    "longitude": "-13.129132651166511"
+    "latitude": 23.340694499999998,
+    "longitude": -13.129132651166511
   }
 ]

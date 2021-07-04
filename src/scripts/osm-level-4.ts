@@ -32,8 +32,8 @@ import { fetchNominatim, fetchOverpass } from './common';
       city: null,
       city_en: null,
       city_ja: null,
-      latitude: coord[0].lat,
-      longitude: coord[0].lon
+      latitude: parseFloat(coord[0].lat),
+      longitude: parseFloat(coord[0].lon)
     })
   }
   await fs.writeFile('./src/data/japan_states.json', JSON.stringify(result, null, 2))

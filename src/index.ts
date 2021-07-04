@@ -1,6 +1,10 @@
-import countries from './data/countries.json';
-import states from './data/japan_states.json';
-import cities from './data/japan_cities.json';
+import countriesJson from './data/countries.json';
+import statesJson from './data/japan_states.json';
+import citiesJson from './data/japan_cities.json';
+
+export const countries = countriesJson;
+export const states = statesJson;
+export const cities = citiesJson;
 
 export const detectLocation = async (text:string) => {
   let result = null;

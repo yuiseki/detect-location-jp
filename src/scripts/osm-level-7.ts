@@ -51,8 +51,8 @@ const tmpPath = './tmp/japan/states/';
           city: item.tags.name,
           city_en: name_en,
           city_ja: item.tags.name,
-          latitude: coord[0].lat,
-          longitude: coord[0].lon
+          latitude: parseFloat(coord[0].lat),
+          longitude: parseFloat(coord[0].lon)
         }
         stateResults.push(result);
         results = results.concat(stateResults)

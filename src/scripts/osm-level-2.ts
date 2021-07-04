@@ -8,8 +8,8 @@ import { fetchNominatim, fetchOverpass } from './common';
     [out:json][timeout:30000];
     relation["admin_level"="2"]["type"="boundary"]["boundary"="administrative"]["name"];
     out tags;`;
-  const level4 = await fetchOverpass(overpass_query_level_2);
-  for await (const item of level4) {
+  const level2 = await fetchOverpass(overpass_query_level_2);
+  for await (const item of level2) {
     const params = new URLSearchParams();
     params.append('country', item.tags['name:en']);
     params.append('format', 'jsonv2');
@@ -35,8 +35,8 @@ import { fetchNominatim, fetchOverpass } from './common';
       city: null,
       city_en: null,
       city_ja: null,
-      latitude: coord[0].lat,
-      longitude: coord[0].lon
+      latitude: parseFloat(coord[0].lat),
+      longitude: parseFloat(coord[0].lon)
     });
     await fs.mkdir(`./tmp/${item.tags.name_en}/states`, { recursive: true })
   }
