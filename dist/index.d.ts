@@ -1,3 +1,90 @@
+export declare const countries: ({
+    id: number;
+    code: string;
+    country: string;
+    country_en: string;
+    country_ja: string;
+    state: null;
+    state_en: null;
+    state_ja: null;
+    city: null;
+    city_en: null;
+    city_ja: null;
+    latitude: number;
+    longitude: number;
+} | {
+    id: number;
+    code: string;
+    country: string;
+    country_en: string;
+    country_ja: null;
+    state: null;
+    state_en: null;
+    state_ja: null;
+    city: null;
+    city_en: null;
+    city_ja: null;
+    latitude: number;
+    longitude: number;
+} | {
+    id: number;
+    country: string;
+    country_en: string;
+    country_ja: null;
+    state: null;
+    state_en: null;
+    state_ja: null;
+    city: null;
+    city_en: null;
+    city_ja: null;
+    latitude: number;
+    longitude: number;
+    code?: undefined;
+})[];
+export declare const states: {
+    id: number;
+    code: string;
+    country: string;
+    country_en: string;
+    country_ja: string;
+    state: string;
+    state_en: string;
+    state_ja: string;
+    city: null;
+    city_en: null;
+    city_ja: null;
+    latitude: number;
+    longitude: number;
+}[];
+export declare const cities: ({
+    id: number;
+    code: null;
+    country: string;
+    country_en: string;
+    country_ja: string;
+    state: string;
+    state_en: string;
+    state_ja: string;
+    city: string;
+    city_en: string;
+    city_ja: string;
+    latitude: number;
+    longitude: number;
+} | {
+    id: number;
+    code: null;
+    country: string;
+    country_en: string;
+    country_ja: string;
+    state: string;
+    state_en: string;
+    state_ja: string;
+    city: string;
+    city_ja: string;
+    latitude: number;
+    longitude: number;
+    city_en?: undefined;
+})[];
 export declare const detectLocation: (text: string) => Promise<{
     id: number;
     code: string;
@@ -10,8 +97,8 @@ export declare const detectLocation: (text: string) => Promise<{
     city: null;
     city_en: null;
     city_ja: null;
-    latitude: string;
-    longitude: string;
+    latitude: number;
+    longitude: number;
 } | {
     id: number;
     code: string;
@@ -24,8 +111,8 @@ export declare const detectLocation: (text: string) => Promise<{
     city: null;
     city_en: null;
     city_ja: null;
-    latitude: string;
-    longitude: string;
+    latitude: number;
+    longitude: number;
 } | {
     id: number;
     code: null;
@@ -38,8 +125,8 @@ export declare const detectLocation: (text: string) => Promise<{
     city: string;
     city_en: string;
     city_ja: string;
-    latitude: string;
-    longitude: string;
+    latitude: number;
+    longitude: number;
 } | {
     id: number;
     code: null;
@@ -51,7 +138,7 @@ export declare const detectLocation: (text: string) => Promise<{
     state_ja: string;
     city: string;
     city_ja: string;
-    latitude: string;
-    longitude: string;
+    latitude: number;
+    longitude: number;
     city_en?: undefined;
 } | null>;
