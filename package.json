@@ -16,6 +16,10 @@
   "scripts": {
     "build": "tsc",
     "test": "jest",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "format": "prettier -w .",
+    "format:check": "prettier -c .",
     "job:level2": "ts-node --files -r tsconfig-paths/register src/scripts/osm-level-2.ts",
     "job:level4": "ts-node --files -r tsconfig-paths/register src/scripts/osm-level-4.ts",
     "job:level7": "ts-node --files -r tsconfig-paths/register src/scripts/osm-level-7.ts",
@@ -39,13 +43,18 @@
     ]
   },
   "devDependencies": {
+    "@eslint/js": "^9.35.0",
     "@types/jest": "^29.0.0",
     "@types/node-fetch": "^2.5.10",
+    "eslint": "^9.35.0",
+    "eslint-config-prettier": "^10.1.8",
     "jest": "^29.0.0",
     "node-fetch": "^3.0.0",
+    "prettier": "^3.6.2",
     "ts-jest": "^29.0.0",
     "ts-node": "^10.0.0",
     "tsconfig-paths": "^4.0.0",
-    "typescript": "^5.0.0"
+    "typescript": "^5.0.0",
+    "typescript-eslint": "^8.43.0"
   }
 }
