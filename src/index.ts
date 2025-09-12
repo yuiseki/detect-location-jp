@@ -6,7 +6,7 @@ export const countries = countriesJson;
 export const states = statesJson;
 export const cities = citiesJson;
 
-export const detectLocation = async (text:string) => {
+export const detectLocation = async (text: string) => {
   let result = null;
   for (const country of countries) {
     if (country.country_ja) {
@@ -33,4 +33,4 @@ export const detectLocation = async (text:string) => {
     }
   }
   return result;
-}
+};

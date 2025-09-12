@@ -16,4 +16,4 @@ describe('都道府県を検出できる', () => {
     expect(location.state).toBe('東京都');
     expect(location.city).toBe('台東区');
   });
-})
+});

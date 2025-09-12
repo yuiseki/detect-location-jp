@@ -3,7 +3,7 @@ import { POI } from '../types/poi';
 import { fetchNominatim, fetchOverpass } from './common';
 
 (async () => {
-  const result:POI[] = [];
+  const result: POI[] = [];
   const overpass_query_level_4 = `
     [out:json][timeout:30000];
     area["name:en"="Japan"];
@@ -15,9 +15,9 @@ import { fetchNominatim, fetchOverpass } from './common';
     params.append('state', item.tags.name);
     params.append('format', 'jsonv2');
     const coord = await fetchNominatim(params.toString());
-    let state_ja = item.tags.name
+    let state_ja = item.tags.name;
     if (item.tags['name:ja'] !== undefined) {
-      state_ja = item.tags['name:ja']
+      state_ja = item.tags['name:ja'];
     }
     console.log(state_ja);
     result.push({
@@ -33,9 +33,9 @@ import { fetchNominatim, fetchOverpass } from './common';
       city_en: null,
       city_ja: null,
       latitude: parseFloat(coord[0].lat),
-      longitude: parseFloat(coord[0].lon)
-    })
+      longitude: parseFloat(coord[0].lon),
+    });
   }
-  await fs.writeFile('./src/data/japan_states.json', JSON.stringify(result, null, 2))
-  await fs.mkdir('./tmp/japan/states', { recursive: true })
+  await fs.writeFile('./src/data/japan_states.json', JSON.stringify(result, null, 2));
+  await fs.mkdir('./tmp/japan/states', { recursive: true });
 })();

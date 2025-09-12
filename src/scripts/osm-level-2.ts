@@ -3,7 +3,7 @@ import { POI } from '../types/poi';
 import { fetchNominatim, fetchOverpass } from './common';
 
 (async () => {
-  const result:POI[] = [];
+  const result: POI[] = [];
   const overpass_query_level_2 = `
     [out:json][timeout:30000];
     relation["admin_level"="2"]["type"="boundary"]["boundary"="administrative"]["name"];
@@ -19,7 +19,7 @@ import { fetchNominatim, fetchOverpass } from './common';
     }
     let country_ja = null;
     if (item.tags['name:ja']) {
-      country_ja = item.tags['name:ja']
+      country_ja = item.tags['name:ja'];
     } else {
       console.log(item.tags['name:en'], item.tags['name:ja']);
     }
@@ -36,9 +36,9 @@ import { fetchNominatim, fetchOverpass } from './common';
       city_en: null,
       city_ja: null,
       latitude: parseFloat(coord[0].lat),
-      longitude: parseFloat(coord[0].lon)
+      longitude: parseFloat(coord[0].lon),
     });
-    await fs.mkdir(`./tmp/${item.tags.name_en}/states`, { recursive: true })
+    await fs.mkdir(`./tmp/${item.tags.name_en}/states`, { recursive: true });
   }
-  await fs.writeFile('./src/data/countries.json', JSON.stringify(result, null, 2))
+  await fs.writeFile('./src/data/countries.json', JSON.stringify(result, null, 2));
 })();

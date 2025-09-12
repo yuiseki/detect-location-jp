@@ -21,11 +21,10 @@ export default [
     },
     rules: {
       // Add any TS-specific rule customizations here
-      'no-console': 'off'
-    }
+      'no-console': 'off',
+    },
   },
 
   // Disable stylistic rules in favor of Prettier
-  eslintConfigPrettier
+  eslintConfigPrettier,
 ];
-
